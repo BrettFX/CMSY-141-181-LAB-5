@@ -1,9 +1,4 @@
 /*
-Brett Allen
-Stephen Eide
-CMSY-141/181
-10/12/2015
-
 This program is designed to receive input from a text file containing student names and class averages.
 First this program will determine each students' letter grade and it will compute the highest and lowest grades.
 Finally the program will determine the entire class' average and display everything to the console.
