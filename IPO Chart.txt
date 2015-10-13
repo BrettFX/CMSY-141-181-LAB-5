@@ -4,6 +4,8 @@ INPUT
   
 PROCESSING
 
+  Open Lab5.txt
+
   Read Lab5.txt
   
   Store Lab5.txt data into parallel arrays: name, classAvg
