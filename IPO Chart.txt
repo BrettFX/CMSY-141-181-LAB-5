@@ -1,0 +1,27 @@
+INPUT
+
+  Lab5.txt
+  
+PROCESSING
+
+  Read Lab5.txt
+  
+  Store Lab5.txt data into parallel arrays: name, classAvg
+  
+  Compute letterGrade of each student
+  
+  Compute highestGrade, lowestGrade of each student
+  
+  Compute classAverage
+  
+  Display letterGrade, highestGrade, lowestGrade, classAverage
+
+OUTPUT
+
+  Display letterGrade of each student
+   
+  Display highestGrade and name
+   
+  Display lowestGrade and name
+  
+  Display classAverage
