@@ -127,7 +127,7 @@ void letterGrade(string name[], double classAvg[], char letterGrade[], int size)
 		else if (classAvg[i] >= 0)
 		{
 			cout << name[i] << " has a(n) " << letterGrade[4] << " at a " <<
-				classAvg[i] << "%\n\n"; //Student has an 'E'
+				classAvg[i] << "%\n\n"; //Student has an 'F'
 		}
 	}
 }
